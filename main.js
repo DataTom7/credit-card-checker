@@ -72,8 +72,3 @@ const idInvalidCardCompanies = (array) => {
 }
 
 idInvalidCardCompanies(arr1)
-
-
-
-
-
